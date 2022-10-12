@@ -11,7 +11,7 @@ Code for "Distributional Reward Estimation for Effective Multi-agent Deep Reinfo
 
 First clone the code and installation of the relevant package.
 
-    git clone https://github.com/HJbobo/DRE-MARL.git
+    git clone https://github.com/JF-Hu/DRE-MARL.git
     cd DRE-MARL
     pip install -r requirements.txt
 
