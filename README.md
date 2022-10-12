@@ -5,7 +5,7 @@
 
 
 
-Code for "Distributional Reward Estimation for Effective Multi-agent Deep Reinforcement Learning".
+Code for "Distributional Reward Estimation for Effective Multi-Agent Deep Reinforcement Learning".
 
 ![Framework](Framework.png)
 
