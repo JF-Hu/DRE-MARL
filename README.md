@@ -1,6 +1,6 @@
 
 <p align="center">
-<h1 align="center"> Multi-agent Distributional Reward Estimation (DRE-MARL) </h1>
+<h1 align="center"> Multi-Agent Distributional Reward Estimation (DRE-MARL) </h1>
 </p>
 
 
